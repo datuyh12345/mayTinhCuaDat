@@ -1,0 +1,8 @@
+h1, p {
+  font-family: Lato;
+}
+.ten{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
